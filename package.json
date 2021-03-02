@@ -1,0 +1,16 @@
+{
+  "name": "code-review-best-practices",
+  "version": "1.0.0",
+  "description": "Assembler School Code Review Best Practices",
+  "main": "README.md",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assembler-school/code-review-best-practices.git"
+  },
+  "keywords": [
+    "code reviews"
+  ],
+  "author": "Dani Lucaci <dani@assemblerschool.com>",
+  "license": "MIT"
+}
