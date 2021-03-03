@@ -1,12 +1,8 @@
+`#assembler-school`
+
 # Assembler School: Code Review Best Practices
 
-In this page you will see several best practices and tips & tricks of doing code reviews in way that is professional, mindful of your colleagues feelings and that it ensures that the code base of your team doesn't deteriorate in time.
-
-## Other pages in this guide <!-- omit in toc -->
-
-- [Code review best practices](./code-review-best-practices.md)
-- [Code review guidelines](./code-review-guidelines.md)
-- [Learn more about code reviews](../README.md#resources)
+In this page you will see several best practices and tips & tricks on doing code reviews in way that is professional, mindful of your colleagues feelings and that it ensures that the code base of your team doesn't deteriorate in time.
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -80,7 +76,7 @@ Humans should not have to check parts of the code that can be automated by tools
 
 Us as developers should be reviewing much more complicated and higher level aspects of our code such as checking if the overall architectural design of the code is well thought of, if the coding standards of the team are being followed and much more.
 
-Our time as developers is valuable and limited so we need to automate most of the boring and repetitive aspects of our code so that we can better spend our time on tasks that tools can't check for us.
+Our time as developers is valuable and limited so we need to automate most of the boring and repetitive aspects of our code so that we can better spend our time on tasks that **tools can't check for us**.
 
 We shouldn't spend time discussing whether to use spaces or tabs, we should define a style guide that our entire team uses and serves as a go-to when we don't know which direction to follow.
 
@@ -90,7 +86,7 @@ All these tools should ideally execute as soon as possible to catch all the issu
 
 Feedback loops tell your team whether or not their development efforts are paying off. The faster and more detailed the feedback, the more information your team has to make corrections and improve the application.
 
-Following this principle, as developers we need automated tools that report any issues with our code while we are writing it so that we can fix them right away and not latter when tests report a bug.
+Following this principle, as developers, we need automated tools that report any issues with our code **while we are writing** it so that we can **fix them right away and not latter** when tests report a bug.
 
 ### Linters
 
@@ -98,11 +94,27 @@ Following this principle, as developers we need automated tools that report any 
 
 - [ESLint](https://eslint.org/)
 
+**PHP**:
+
+- [ ] TODO
+
+**SCSS**:
+
+- [ ] TODO
+
 ### Formatters
 
 **Javascript**:
 
 - [Prettier](https://prettier.io/docs/en/configuration.html)
+
+**PHP**:
+
+- [ ] TODO
+
+**SCSS**:
+
+- [ ] TODO
 
 ### Automated tools
 
@@ -139,9 +151,9 @@ Some examples of Javascript Style Guides include:
 
 ## Review time
 
-Code reviews should be your top priority. Any time the code spends in code review is time wasted because the code isn't used in production and all the effort of the author was wasted.
+Code reviews should be your top priority. Any time the code spends in code review is time wasted because the code isn't used in production and all the effort of the author is wasted.
 
-When you receive a code review request you should start right away with it so that the author can know if any changes are required.
+When you receive a code review request you should start right away with it so that the author can know if any changes are required. The same principle applies to you as an author, when a reviewer requests changes, you should get to it as soon as possible.
 
 **A single review round should not be any longer that one business day**.
 
@@ -151,7 +163,7 @@ If the reviewer can't respond quickly he/she should let the author know so that 
 
 ## Try to keep reviews under ~400 lines of code
 
-The ideal code reviews is between 10 to 100 lines of code or under an hour of. It could extend up to 300 - 400 lines of code but it is discouraged and you should try to get the author to divide it into several parts
+The ideal code reviews is between 10 to 100 lines of code or under an hour of. It could extend up to 200 - 400 lines of code but it is discouraged and you should try to get the author to divide it into several parts.
 
 ---
 
@@ -173,7 +185,7 @@ Each review round should not have too many notes. Usually having 20-50 notes in 
 
 Therefore, first wait for higher level changes to be solved before going for lower-level issues such as variable naming or clarity of code.
 
-This is important because by the time the higher level notes have been solved, the lower level ones might also be taken care of through refactoring.
+This is important because by the time the higher level notes have been solved, the lower level ones might also have been taken care of through refactoring.
 
 [back to top](#assembler-school-code-review-best-practices)
 
@@ -292,7 +304,7 @@ It's better to say:
 
 Rather than asking the author to improve in all the ways possible and going from a 5 out of 10 straight to a 10 out of 10 try to focus on small incremental increases of knowledge.
 
-If you ask too much from the author his/her patience will drain out very quickly. Give them an opportunity to grow step by step.
+If you ask too much from the author his/her patience will drain out very quickly. Give them an opportunity to grow incrementally.
 
 [back to top](#assembler-school-code-review-best-practices)
 
