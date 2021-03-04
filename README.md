@@ -175,9 +175,9 @@ End To End Testing
 
 #### Highly recommended
 
-1. [How to Do Code Reviews Like a Human](./src/posts/how-to-do-code-reviews-like-a-human/index.md)
-2. [How to Make Your Code Reviewer Fall in Love with You](./src/posts/code-review-love/index.md)
-3. [Google Engineering Best Practices](./src/posts/google-eng-best-practices/index.md)
+1. [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
+2. [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+3. [Google Engineering Best Practices](https://github.com/google/eng-practices)
 
 #### Optional
 
