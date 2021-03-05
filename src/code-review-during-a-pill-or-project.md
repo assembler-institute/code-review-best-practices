@@ -59,7 +59,7 @@ Now, your PR has been created and you can review it and optionally edit any deta
 
 ![Pull request created](/src/img/semantic-html/author/05-semantic-html-pr-created.png)
 
-If you take a look at the PR you can merge it until the reviewer that was assigned approves the changes.
+If you take a look at the PR you can see that you cannot merge it until the reviewer that was assigned approves the changes.
 
 ![PR Blocked](/src/img/semantic-html/author/06-semantic-html-pr-blocked.png)
 
