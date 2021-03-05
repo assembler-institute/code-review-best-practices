@@ -55,7 +55,7 @@ Once the title, description, reviewer and any other options are added to the PR 
 
 ![Creating the pull request](/src/img/semantic-html/author/04-semantic-html-pr-create.png)
 
-Now, you PR has been created and you can review it and optionally edit any details if you missed any step.
+Now, your PR has been created and you can review it and optionally edit any details if you missed any step.
 
 ![Pull request created](/src/img/semantic-html/author/05-semantic-html-pr-created.png)
 
