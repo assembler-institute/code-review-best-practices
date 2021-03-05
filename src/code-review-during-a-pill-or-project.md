@@ -81,7 +81,7 @@ If you open the `Pull requests` tab in Github yo should see the PR that was just
 
 ![PR list](/src/img/semantic-html/reviewer/02-semantic-html-pr-created.png)
 
-First, you will need to take a look at all of the files changed in the PR to see if it follows the coding standards of your team.s
+First, you will need to take a look at all of the files changed in the PR to see if it follows the coding standards of your team.
 
 ![Reviewer side details](/src/img/semantic-html/reviewer/03-semantic-html-changes.png)
 
