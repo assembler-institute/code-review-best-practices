@@ -50,10 +50,10 @@ In the next screen you can write the pull request title and description:
 
 In this example we can see that the Pull Request title contains the git message which is not correct.
 
-The template we use in Assembler School to deliver a solution PR is the following:
+The template we use at Assembler School to deliver a solution PR is the following:
 
 ```
-Solution + YOUR FULL NAME
+Solution: + YOUR FULL NAME
 ```
 
 **Examples:**
